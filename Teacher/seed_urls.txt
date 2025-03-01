@@ -1,0 +1,3 @@
+http://quotes.toscrape.com/
+http://quotes.toscrape.com/page/2/
+http://quotes.toscrape.com/page/3/
